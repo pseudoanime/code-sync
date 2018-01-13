@@ -39,5 +39,15 @@
     {
         "key": "win+k win+p",
         "command": "-better-phpunit.run-previous"
+    },
+    {
+        "key": "alt+enter",
+        "command": "editor.action.showContextMenu",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+f10",
+        "command": "-editor.action.showContextMenu",
+        "when": "editorTextFocus"
     }
 ]

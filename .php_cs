@@ -8,9 +8,8 @@ return PhpCsFixer\Config::create()
         'method_separation' => true,
         'no_multiline_whitespace_before_semicolons' => true,
         'single_quote' => true,
-
         'binary_operator_spaces' => array(
-            'align_double_arrow' => false,
+            'align_double_arrow' => true,
             'align_equals' => false,
         ),
         // 'blank_line_after_opening_tag' => true,
@@ -88,6 +87,8 @@ return PhpCsFixer\Config::create()
         'trim_array_spaces' => true,
         'unary_operator_spaces' => true,
         'whitespace_after_comma_in_array' => true,
+        'ordered_imports' => ['sortAlgorithm' => 'alpha'],
+        'single_blank_line_at_eof'=>true,
     ))
     //->setIndent("\t")
     ->setLineEnding("\n")

@@ -16,6 +16,6 @@
     "php.validate.executablePath": "C:\\laragon\\bin\\php\\php-7.1.12-Win32-VC14-x64\\php.exe",
     "php-cs-fixer.executablePathWindows": "php-cs-fixer.bat",
     "php-cs-fixer.onsave": true,
-    "php-cs-fixer.config": "C:\\Users\\Lakshmi\\AppData\\Roaming\\Code\\User\\.php_cs"
+    "php-cs-fixer.config": "C:\\Users\\Lakshmi\\AppData\\Roaming\\Code\\User\\.php_cs",
     //"terminal.integrated.shell.windows": "C:\\laragon\\bin\\cmder\\vendor\\conemu-maximus5\\ConEmu64.exe"
 }
