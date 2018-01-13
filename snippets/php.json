@@ -1,0 +1,42 @@
+{
+	"Public function": {
+		"prefix": "pubf",
+		"body": [
+			"public function $1($2)",
+			"{",
+			"\t$0",
+			"}"
+		],
+		"description": "Public function"
+	},
+	"Private function": {
+		"prefix": "prif",
+		"body": [
+			"private function $1($2)",
+			"{",
+			"\t$0",
+			"}"
+		],
+		"description": "Private function"
+	},
+	"Protected function": {
+		"prefix": "prof",
+		"body": [
+			"protected function $1($2)",
+			"{",
+			"\t$0",
+			"}"
+		],
+		"description": "Protected function"
+	},
+	"class": {
+		"prefix": "class",
+		"body": [
+			"class ${TM_FILENAME}\r",
+			"{\r",
+			" \t$1\r",
+			"}"
+		],
+		"description": "new class"
+	}
+}

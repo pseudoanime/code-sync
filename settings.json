@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Slime",
+    "workbench.statusBar.visible": true,
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "explorer.openEditors.visible": 0,
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 1,
+    "explorer.confirmDelete": false,
+    "editor.tabCompletion": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "better-phpunit.phpunitBinary": ".//vendor//bin//phpunit.bat",
+    "php.validate.executablePath": "C:\\laragon\\bin\\php\\php-7.1.12-Win32-VC14-x64\\php.exe",
+    "php-cs-fixer.executablePathWindows": "php-cs-fixer.bat",
+    "php-cs-fixer.onsave": true,
+    "php-cs-fixer.config": "C:\\Users\\Lakshmi\\AppData\\Roaming\\Code\\User\\.php_cs"
+    //"terminal.integrated.shell.windows": "C:\\laragon\\bin\\cmder\\vendor\\conemu-maximus5\\ConEmu64.exe"
+}
