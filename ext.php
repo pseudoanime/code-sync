@@ -11,5 +11,6 @@ $extensions = [
     'Slime Theme'         => 'smlombardi',
     'snippet-creator'     => 'nikitaKunevich',
     'Sublime Text Keymap' => 'Microsoft',
-    'Vim'                 => 'vscodevim'//disabled
+    'Vim'                 => 'vscodevim',//disabled
+    'laravel-blade'       => 'Christian Howe',
 ];

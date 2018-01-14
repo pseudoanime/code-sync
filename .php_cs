@@ -90,6 +90,5 @@ return PhpCsFixer\Config::create()
         'ordered_imports' => ['sortAlgorithm' => 'alpha'],
         'single_blank_line_at_eof'=>true,
     ))
-    //->setIndent("\t")
-    ->setLineEnding("\n")
-;
+    //->setIndent("    ")
+    ->setLineEnding("\n");

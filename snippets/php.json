@@ -38,5 +38,16 @@
 			"}"
 		],
 		"description": "new class"
+	},
+	"test": {
+		"prefix": "test",
+		"body": [
+			"/**  @test **/",
+			"public function $1()",
+			"{",
+			"  \t$0",
+			"}"
+		],
+		"description": "create test function"
 	}
 }
