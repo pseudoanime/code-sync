@@ -17,5 +17,6 @@
     "php-cs-fixer.executablePathWindows": "php-cs-fixer.bat",
     "php-cs-fixer.onsave": true,
     "php-cs-fixer.config": "C:\\Users\\Lakshmi\\AppData\\Roaming\\Code\\User\\.php_cs",
+    "editor.useTabStops": false,
     //"terminal.integrated.shell.windows": "C:\\laragon\\bin\\cmder\\vendor\\conemu-maximus5\\ConEmu64.exe"
 }
