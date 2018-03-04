@@ -89,7 +89,6 @@ return PhpCsFixer\Config::create()
         'whitespace_after_comma_in_array' => true,
         'ordered_imports' => ['sortAlgorithm' => 'alpha'],
         'single_blank_line_at_eof'=>true,
-        'indent_mixed_lines' => true,
         'method_chaining_indentation'=>true
     ))
     //->setIndent("    ")

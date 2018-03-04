@@ -30,6 +30,7 @@
         "vue",
         "vue-html"
     ],
-    "vetur.validation.template": false, 
+    "vetur.validation.template": false,
+    "workbench.statusBar.feedback.visible": false, 
     //"terminal.integrated.shell.windows": "C:\\laragon\\bin\\cmder\\vendor\\conemu-maximus5\\ConEmu64.exe"
 }
