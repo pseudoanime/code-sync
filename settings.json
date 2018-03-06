@@ -31,6 +31,8 @@
         "vue-html"
     ],
     "vetur.validation.template": false,
-    "workbench.statusBar.feedback.visible": false, 
+    "workbench.statusBar.feedback.visible": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true, 
     //"terminal.integrated.shell.windows": "C:\\laragon\\bin\\cmder\\vendor\\conemu-maximus5\\ConEmu64.exe"
 }

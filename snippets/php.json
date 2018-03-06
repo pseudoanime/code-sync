@@ -32,7 +32,7 @@
 	"class": {
 		"prefix": "class",
 		"body": [
-			"class ${TM_FILENAME}\r",
+			"class ${TM_FILENAME_BASE/([A-Z][a-z]+)([A-Z][a-z]+$)?/$1$2/g}\r",
 			"{\r",
 			" \t$1\r",
 			"}"
